@@ -1,2 +1,2 @@
-# nakuuwetdec24
+# nakuruwetdec24
 Fake REST API
